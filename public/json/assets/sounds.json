@@ -1,0 +1,39 @@
+[
+  {
+    "name": "warmth",
+    "type": "music"
+  },
+  {
+    "name": "menu",
+    "type": "fx"
+  },
+  {
+    "name": "jump",
+    "type": "fx"
+  },
+  {
+    "name": "coin",
+    "type": "fx",
+    "volume": 0.2
+  },
+  {
+    "name": "bonk",
+    "type": "fx"
+  },
+  {
+    "name": "hurt",
+    "type": "fx"
+  },
+  {
+    "name": "death",
+    "type": "fx"
+  },
+  {
+    "name": "key",
+    "type": "fx"
+  },
+  {
+    "name": "treasure",
+    "type": "fx"
+  }
+]

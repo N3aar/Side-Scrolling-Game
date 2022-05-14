@@ -1,0 +1,84 @@
+{
+  "background": {
+    "width": 5520,
+    "height": 576
+  },
+  "clouds": {
+    "width": 5416,
+    "height": 208
+  },
+  "generic": [
+    {
+      "width": 5453,
+      "height": 247,
+      "dx": 0,
+      "dy": 0
+    }
+  ],
+  "platforms": {
+    "small-1": {
+      "dx": 1052,
+      "dy": 87,
+      "width": 105,
+      "height": 67
+    },
+    "medium-1": {
+      "dx": 854,
+      "dy": 87,
+      "width": 198,
+      "height": 106
+    },
+    "medium-2": {
+      "dx": 655,
+      "dy": 87,
+      "width": 199,
+      "height": 164
+    },
+    "large-1": {
+      "dx": 0,
+      "dy": 87,
+      "width": 655,
+      "height": 87
+    },
+    "large-2": {
+      "dx": 0,
+      "dy": 0,
+      "width": 1274,
+      "height": 87
+    }
+  },
+  "door" :{
+    "open": {
+      "x": 66,
+      "y": 0,
+      "width": 66,
+      "height": 92
+    },
+    "close": {
+      "x": 0,
+      "y": 0,
+      "width": 66,
+      "height": 92
+    }
+  },
+  "chest" :{
+    "close": {
+      "x": 0,
+      "y": 95,
+      "width": 50,
+      "height": 41
+    },
+    "opening": {
+      "x": 63,
+      "y": 92,
+      "width": 56,
+      "height": 44
+    },
+    "open": {
+      "x": 126,
+      "y": 92,
+      "width": 63,
+      "height": 44
+    }
+  }
+}
